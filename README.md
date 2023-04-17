@@ -1,0 +1,1 @@
+## Destinado à consulta rápida de boas práticas de Segurança em Aplicações.
